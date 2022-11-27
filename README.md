@@ -1,6 +1,6 @@
 ### EXP NO: 06
 
-### .
+### Date:25.10.22
 
 # <p align = "center"> Named Entity Recognition </p>
  
